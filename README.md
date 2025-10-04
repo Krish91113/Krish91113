@@ -20,6 +20,16 @@
 
 <br/>
 
+<!-- Additional Cool Animations -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+<br/>
+
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
@@ -40,7 +50,7 @@ const krish = {
     techStack: {
         frontend: ["React", "Redux", "TypeScript", "Tailwind"],
         backend: ["Node.js", "Express", "MongoDB", "MySQL"],
-        devops: ["Docker", "Kubernetes", "Jenkins", "AWS"]
+        languages: ["JavaScript", "Java", "Python"]
     },
     askMeAbout: ["MERN Stack", "System Design", "Web Dev"],
     funFact: "I turn coffee ☕ into code 👨‍💻",
@@ -72,14 +82,9 @@ const krish = {
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postman&theme=dark&perline=6" />
 </p>
 
-### **DevOps & Cloud** ☁️
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,azure,linux,git,github&theme=dark&perline=8" />
-</p>
-
 ### **Languages** 💻
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark&perline=2" />
 </p>
 
 <!-- Animated Divider -->
@@ -109,7 +114,13 @@ const krish = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish91113&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
+  
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Rocket" width="80" />
+  
+<img src="https://github-profile-trophy.vercel.app/?username=krish91113&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies" />
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Rocket" width="80" />
+
 </div>
 
 ---
@@ -120,6 +131,10 @@ const krish = {
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🎯 Coding Platforms
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krish1212/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krish_baranwal)
@@ -140,10 +155,14 @@ const krish = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish9113)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishbaranwal56@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" />
 
 <br/>
 
@@ -156,6 +175,8 @@ const krish = {
 ## 💼 Open for Collaboration
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 
 ```diff
 + 🚀 Full Stack Development Projects
