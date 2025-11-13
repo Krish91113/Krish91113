@@ -230,6 +230,6 @@ const krish = {
 
 <br/>
 
-**Made with 💙 by Krish Baranwal**
+**Made with 💙 by Krish Baranwal*
 
 </div>
