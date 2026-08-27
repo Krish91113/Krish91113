@@ -1,69 +1,102 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krish%20Baranwal&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack&descAlignY=55"/>
+# Hi, I'm Krish Baranwal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Krish;MERN+Stack+Developer;Building+YumzY+🍕;Future+Tech+Billionaire+💰" alt="Typing SVG" />
+**Full Stack Developer | MERN Stack | Problem Solver**
 
-<br/>
+Building scalable web applications with **React, Node.js, Express & MongoDB**.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=krish91113&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/krish91113)
-[![Followers](https://img.shields.io/github/followers/krish91113?label=Followers&style=for-the-badge&color=blue)](https://github.com/krish91113)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/krish91113)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/krish9113)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/krish1212/)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## 🚀 About Me
 
-```javascript
-const krish = {
-    role: "Full Stack Developer 💻",
-    location: "India 🇮🇳",
-    currentProject: "YumzY - Food Delivery App 🍕",
-    learning: ["DevOps", "Cloud", "System Design"],
-    techStack: ["React", "Node.js", "MongoDB", "Express"],
-    funFact: "I turn coffee ☕ into code"
-};
-```
-
-### 🎯 Current Mission
-Building **YumzY** - A next-gen food delivery platform with real-time tracking 🚀
-
-<br clear="right"/>
+* 🎓 Computer Science Engineering student — **CGPA 9.26/10**
+* 💻 Full Stack Developer with experience building **production web applications**
+* ☁️ Working with **AWS, Docker & GitHub Actions**
+* ⚡ Interested in **System Design, Cloud & Backend Engineering**
+* 🧩 Solved **450+ DSA problems**
+* 🏆 Hackathon winner & **GSSoC 2026 Open Source Contributor**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Frontend**
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nextjs&theme=dark" />
+`React.js` `Redux` `TypeScript` `JavaScript` `Tailwind CSS` `Framer Motion`
 
-### Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,postman&theme=dark" />
+**Backend**
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
+`Node.js` `Express.js` `REST APIs` `Socket.IO`
 
-</div>
+**Database**
+
+`MongoDB` `Redis` `SQL`
+
+**DevOps & Tools**
+
+`Docker` `AWS EC2` `AWS S3` `GitHub Actions` `Git` `Postman` `Swagger`
+
+**Languages**
+
+`Java` `JavaScript` `SQL`
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern — MentorChamp**
+Building backend services and REST APIs using **Node.js, Express.js & MongoDB**, with Docker, Socket.IO, AWS and GitHub Actions.
+
+**Full Stack Developer Intern — Project Place**
+Developed React applications with reusable components, REST API integrations, lazy loading and performance optimizations.
+
+---
+
+## 🔥 Featured Projects
+
+### 🍽️ Khao Peeo
+
+**Restaurant Management & POS System**
+
+* Role-based restaurant management for **Owners, Managers & Waiters**
+* Table, menu, order and billing management
+* Kitchen Display System with real-time order tracking
+* Staff attendance and operational monitoring
+* Multi-tenant restaurant architecture
+* **React + Node.js + Express + MongoDB + JWT + Socket.IO**
+
+[View Project →](YOUR_KHAO_PEEO_GITHUB_LINK)
+
+---
+
+### 🧾 Invoice Generator
+
+**AI-Powered Invoice Generation Platform**
+
+* Converts natural-language prompts into structured invoices
+* AI-powered invoice generation using Gemini
+* Dynamic PDF generation
+* JSON validation and fallback handling
+* Multi-currency support
+
+[View Project →](YOUR_INVOICE_PROJECT_LINK)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=krish91113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish91113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 
-</div>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=krish91113&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=krish91113&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish91113&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -71,75 +104,22 @@ Building **YumzY** - A next-gen food delivery platform with real-time tracking �
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krish91113&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
-
-## 🎯 Coding Platforms
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/krish1212/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/krish_011)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krishbaranwal56/)
-
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/krish1212?theme=dark&font=Ubuntu&ext=contest" width="450"/>
-
-</div>
+* 🧠 **450+ DSA problems** solved across LeetCode, CodeChef & GeeksforGeeks
+* 🥇 **1st Rank** in consecutive semesters with 10.00 and 9.88 SGPI
+* 🏆 **1st Prize** — National Level Hackathon, Jaipur College of Engineering
+* 🥈 **2nd Prize** — AIMSPARK Hackathon
+* 🌱 **GSSoC 2026 Open Source Contributor**
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
+
+I'm interested in **Full Stack Development, Backend Engineering, Open Source and scalable software systems**.
+
+📧 **[krishbaranwal56@gmail.com](mailto:krishbaranwal56@gmail.com)**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krish9113)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishbaranwal56@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-
-</div>
-
----
-
-## 💼 Open for Collaboration
-
-<div align="center">
-
-```diff
-+ 🚀 Full Stack Projects
-+ 🤖 GenAI & ML Applications  
-+ 🌟 Open Source Contributions
-```
-
-📧 **Let's connect:** krishbaranwal56@gmail.com
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<br/>
-
-⭐ **Thanks for visiting! Star some repos if you like them!**
-
-*Made with 💙 by Krish Baranwal*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+⭐ If you find something useful here, feel free to explore my repositories.
 
 </div>
