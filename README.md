@@ -49,6 +49,69 @@ Building scalable web applications with **React, Node.js, Express & MongoDB**.
 
 ---
 
+## 🌍 Open Source Contribution Targets (MERN)
+
+These are company-backed projects that match my **JavaScript + MERN** path:
+
+1. **React (Meta)**  
+   Repo: https://github.com/facebook/react  
+   Contributing: https://github.com/facebook/react/blob/main/CONTRIBUTING.md  
+   Starter issues: https://github.com/facebook/react/labels/good%20first%20issue
+
+2. **Next.js (Vercel)**  
+   Repo: https://github.com/vercel/next.js  
+   Contributing: https://github.com/vercel/next.js/blob/canary/contributing.md  
+   Starter issues: https://github.com/vercel/next.js/labels/good%20first%20issue
+
+3. **TypeScript (Microsoft)**  
+   Repo: https://github.com/microsoft/TypeScript  
+   Contributing: https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md  
+   Starter issues: https://github.com/microsoft/TypeScript/labels/Good%20First%20Issue
+
+4. **VS Code (Microsoft)**  
+   Repo: https://github.com/microsoft/vscode  
+   Contributing: https://github.com/microsoft/vscode/wiki/How-to-Contribute  
+   Starter issues: https://github.com/microsoft/vscode/labels/good%20first%20issue
+
+5. **Node.js (OpenJS Foundation)**  
+   Repo: https://github.com/nodejs/node  
+   Contributing: https://github.com/nodejs/node/blob/main/CONTRIBUTING.md  
+   Starter issues: https://github.com/nodejs/node/labels/good%20first%20issue
+
+6. **Express.js**  
+   Repo: https://github.com/expressjs/express  
+   Contributing: https://github.com/expressjs/express/blob/master/Contributing.md  
+   Starter issues: https://github.com/expressjs/express/labels/help%20wanted
+
+7. **MongoDB Node Driver (MongoDB)**  
+   Repo: https://github.com/mongodb/node-mongodb-native  
+   Contributing: https://github.com/mongodb/node-mongodb-native/blob/main/CONTRIBUTING.md  
+   Starter issues: https://github.com/mongodb/node-mongodb-native/labels/help%20wanted
+
+8. **Jest (OpenJS/Meta ecosystem)**  
+   Repo: https://github.com/jestjs/jest  
+   Contributing: https://github.com/jestjs/jest/blob/main/CONTRIBUTING.md  
+   Starter issues: https://github.com/jestjs/jest/labels/good%20first%20issue
+
+9. **ESLint (OpenJS Foundation)**  
+   Repo: https://github.com/eslint/eslint  
+   Contributing: https://github.com/eslint/eslint/blob/main/CONTRIBUTING.md  
+   Starter issues: https://github.com/eslint/eslint/labels/good%20first%20issue
+
+10. **Socket.IO**  
+    Repo: https://github.com/socketio/socket.io  
+    Contributing: https://github.com/socketio/socket.io/blob/main/CONTRIBUTING.md  
+    Starter issues: https://github.com/socketio/socket.io/labels/good%20first%20issue
+
+### ⚡ Fast Execution Plan
+
+* Pick **2 repositories** from the list above.
+* Filter issues using **good first issue** and **help wanted** labels.
+* Read each repo's **CONTRIBUTING.md** and run the project locally.
+* Maintain consistency: target **1 small PR per week** (docs, tests, bugfix) for 1–2 months.
+
+---
+
 ## 💼 Experience
 
 **Software Developer Intern — MentorChamp**
